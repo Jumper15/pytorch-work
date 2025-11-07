@@ -1,2 +1,2 @@
 # pytorch-work
-rgeg
+based off Andrej Karpathy's makemore
